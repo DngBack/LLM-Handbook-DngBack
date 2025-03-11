@@ -6,7 +6,7 @@ A comprehensive collection of notes, insights, and experiments on Large Language
 
 - **Introduction to LLMs** – Basics, architectures, mathematical foundations, and key concepts.
 - **Mathematical Understanding** – Attention mechanisms, transformers, loss functions, optimization techniques.
-- **LLM Fine-tuning** – Techniques, frameworks, and best practices.
+- **LLM Fine-tuning with SFT** – Techniques, frameworks, and best practices.
 - **Deployment Strategies** – Serving LLMs using ONNX, FastAPI, Triton, and other tools.
 - **Optimization & Scaling** – Quantization, pruning, and performance tuning.
 - **RLHF & Customization** – Reinforcement learning and aligning models for specific use cases.

@@ -33,12 +33,17 @@ This section provides an overview of key LLM architectures, model evaluation, an
    - Adapting LLMs for specific tasks with minimal compute
 
 5. **Popular LLMs and Their Use Cases**
+
    - **GPT Series (OpenAI)** – Text generation and automation
    - **BERT & Variants (Google)** – Sentence embedding and retrieval
    - **LLaMA (Meta)** – Open-source model for research
    - **Claude (Anthropic)** – AI safety and alignment
    - **Mistral & Mixtral** – Open-weight high-performance models
    - **Falcon, Bloom, and Other Open Models** – Community-driven alternatives
+
+6. **Update papers**
+
+   - Spend time to update the papers and new techniques in here.
 
 ## 🚀 Why Learn About LLMs?
 
