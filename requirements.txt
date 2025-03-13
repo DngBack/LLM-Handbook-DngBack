@@ -1,1 +1,2 @@
 # Conda with Python 3.10.16
+vllm==0.7.3
