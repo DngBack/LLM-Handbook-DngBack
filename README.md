@@ -10,6 +10,7 @@ A comprehensive collection of notes, insights, and experiments on Large Language
 - [💪 Optimization & Scaling](#optimization--scaling): Quantization, pruning, and performance tuning.
 - **RLHF & Customization** – Reinforcement learning and aligning models for specific use cases.
 - [🔄 RLHF & Customization](#rlhf--customization): Case studies, automation, and integration examples.
+-
 - [🌐 Real-world Applications](#real-world-applications): Scripts and test cases to evaluate different models and settings.
 
 ## 🚀 Why This Repo?
@@ -19,21 +20,34 @@ A comprehensive collection of notes, insights, and experiments on Large Language
 - Offers a hands-on approach with experiments and deployment guides.
 - Serves as a resource hub for engineers, researchers, and enthusiasts.
 
-## 🛠 Tech Stack & Tools
+## 📌 Introduction to LLMs
 
-- **Frameworks**: PyTorch, TensorFlow, ONNX
-- **Serving**: FastAPI, Triton Inference Server
-- **Optimization**: Quantization, LoRA, GPTQ
-- **RLHF**: Reinforcement learning techniques for fine-tuning
+- Basics, architectures, mathematical foundations, and key concepts.
 
-## 🧪 Ideas for Testing & Running LLMs
+## 📊 Mathematical Understanding
 
-- **Benchmark different LLMs** on speed, accuracy, and memory usage.
-- **Experiment with fine-tuning** using LoRA and full model updates.
-- **Compare quantization methods** (GPTQ, AWQ, INT8, FP16, etc.).
-- **Deploy LLMs with different serving frameworks** (ONNX, vLLM, Triton).
-- **Test RLHF methods** to align models better with specific tasks.
-- **Run adversarial tests** to check model robustness.
-- **Measure token efficiency** to optimize inference costs.
+- Attention mechanisms, transformers, loss functions, optimization techniques.
 
-# Quick Links
+## 🛠️ LLM Fine-tuning with SFT
+
+- Techniques, frameworks, and best practices.
+
+## 🎮 Deployment Strategies
+
+- Serving LLMs using ONNX, FastAPI, Triton, and other tools.
+
+## 💪 Optimization & Scaling
+
+- Quantization, pruning, and performance tuning.
+
+## 🔄 RLHF & Customization
+
+- Reinforcement learning and aligning models for specific use cases.
+
+## 🌐 Real-world Applications
+
+- Case studies, automation, and integration examples.
+
+## 🎧 LLM Test Repository
+
+- Scripts and test cases to evaluate different models and settings.
